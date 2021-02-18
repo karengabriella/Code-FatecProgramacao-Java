@@ -30,7 +30,7 @@ import javax.swing.JOptionPane;
 	     MediaGeral(valores);  //Média geral de todos os saldos
 	     break;
            case 3:
-	     MediaNegativos(valores);  //
+	     MediaNegativos(valores);  //Média dos saldos negativos
 	     break;
            case 4:
 	      break;
